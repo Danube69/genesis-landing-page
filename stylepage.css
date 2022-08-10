@@ -1,0 +1,28 @@
+body{
+font-family: Roboto, Helvetica,Verdana;
+}
+
+
+header{
+ background-color: #1f2937;  
+}
+
+h2{
+ padding-left: 400px;
+ font-size: 24px;
+ color: #f9faf8;
+}
+
+.links{
+    display:flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 400px;
+}
+
+a{
+ position:relative;
+ bottom: 43px;
+ font-size: 18px;
+ color: #e5e7eb;
+}
