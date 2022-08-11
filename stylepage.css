@@ -1,11 +1,9 @@
 body{
 font-family: Roboto, Helvetica,Verdana;
+background-color: #1f2937;  
 }
 
 
-header{
- background-color: #1f2937;  
-}
 
 h2{
  padding-left: 400px;
