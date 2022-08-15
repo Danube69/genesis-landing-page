@@ -1,12 +1,14 @@
 body{
 font-family: Roboto, Helvetica,Verdana;
-background-color: #1f2937;  
 }
 
-
+.BGCtainer{
+    background-color: #1f2937;
+    padding-bottom: 500px;
+}
 
 h2{
- padding-left: 400px;
+ padding-left: 300px;
  font-size: 24px;
  color: #f9faf8;
 }
@@ -15,12 +17,54 @@ h2{
     display:flex;
     justify-content: flex-end;
     gap: 20px;
-    padding-right: 400px;
+    padding-right: 200px;
 }
 
 a{
  position:relative;
  bottom: 43px;
  font-size: 18px;
- color: #e5e7eb;
+ color: hsl(220, 13%, 91%);
+}
+
+img{
+    height: 500px;
+    width: auto;
+    text-align: right;
+    float: right;
+    top: -150px;
+    position: relative;
+    right: 60px;
+}
+
+
+button{
+    border-radius: 15px;
+    background-color: #3882f6;
+    color:#e5e7eb;
+    padding: 10px;
+    display: flex;
+    width: auto;
+    height: auto;
+    border-width: 3px;
+    text-align: center;
+    margin:auto;
+    margin-left: 300px;
+}
+
+h1{
+    
+    font-size:48px;
+    font-weight:bolder;
+    color:#f9faf8;
+    padding-left: 300px;
+    margin-bottom: -10px;
+    
+}
+
+p{
+    font-size:18px;
+    padding-left: 300px;
+    color:#e5e7eb;
+    white-space: pre;
 }
