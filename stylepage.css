@@ -169,5 +169,14 @@ margin-left: 90px;
     display:flex;
     word-wrap: break-word;
     padding: 300px;
-    text-align: left;
+    justify-content: left;
+}
+
+h3 {
+   float: right;
+   position: relative;
+   top: -330px;
+   left: -250px;
+   font-size:x-large;
+   font-weight: bold;
 }
