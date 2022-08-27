@@ -213,3 +213,14 @@ h3 {
     padding: 8px;
     font-weight: 700;
 }
+
+footer {
+    background-color: #1f2937;
+    color:#f9faf8;
+    padding: 50px;
+    text-align: center;
+    position:relative;
+    top: 90px;
+    font-weight: 400;
+    font-size: 23px;
+}
